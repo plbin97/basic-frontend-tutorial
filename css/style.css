@@ -1,0 +1,12 @@
+.make_things_red {
+    color: #FF0000;
+}
+.make_things_larger {
+    font-size: x-large;
+}
+#box_a {
+    color: #00FF00;
+}
+p {
+    color: brown;
+}
